@@ -1,0 +1,5 @@
+azure-functions
+azure-cosmos
+azure-core
+pyjwt
+datetime
