@@ -1,0 +1,8 @@
+{
+  "uid": "a",
+  "id": "0",
+  "offered_uids": ["b", "c", "d", "e"],
+  "event-time": "2022-04-28T10:44:44-5:00",
+  "num-participants": 4,
+  "notes": "euchre at 505"
+}
